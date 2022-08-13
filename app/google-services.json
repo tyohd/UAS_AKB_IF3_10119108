@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "879652092853",
+    "project_id": "diary-notes-uas-akb",
+    "storage_bucket": "diary-notes-uas-akb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:879652092853:android:7ea140ce7e03279a9937fc",
+        "android_client_info": {
+          "package_name": "com.example.diarynotesuasakb"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "879652092853-d7mb2evprdkppb08dmhavfductra7rad.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCuxVcpO6Ov-iyQwX8G7i3Q-Mj9IdB_waw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "879652092853-d7mb2evprdkppb08dmhavfductra7rad.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

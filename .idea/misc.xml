@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/andr9/Downloads/UASAKB/DiaryNotesUASAKB/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.195" />
+        <entry key="..\:/Users/andr9/Downloads/UASAKB/DiaryNotesUASAKB/app/src/main/res/drawable/bg_text.xml" value="0.1935" />
+        <entry key="..\:/Users/andr9/Downloads/UASAKB/DiaryNotesUASAKB/app/src/main/res/drawable/bg_texthome.xml" value="0.3075" />
+        <entry key="..\:/Users/andr9/Downloads/UASAKB/DiaryNotesUASAKB/app/src/main/res/drawable/cust_input.xml" value="0.1" />
+        <entry key="..\:/Users/andr9/Downloads/UASAKB/DiaryNotesUASAKB/app/src/main/res/drawable/dropdown.xml" value="0.1" />
+        <entry key="..\:/Users/andr9/Downloads/UASAKB/DiaryNotesUASAKB/app/src/main/res/drawable/ic_baseline_arrow_drop_down_24.xml" value="0.1" />
+        <entry key="..\:/Users/andr9/Downloads/UASAKB/DiaryNotesUASAKB/app/src/main/res/drawable/ic_baseline_login_24.xml" value="0.3075" />
+        <entry key="..\:/Users/andr9/Downloads/UASAKB/DiaryNotesUASAKB/app/src/main/res/drawable/ic_launcher_background.xml" value="0.195" />
+        <entry key="..\:/Users/andr9/Downloads/UASAKB/DiaryNotesUASAKB/app/src/main/res/drawable/onboarding_indicator_active.xml" value="0.195" />
+        <entry key="..\:/Users/andr9/Downloads/UASAKB/DiaryNotesUASAKB/app/src/main/res/drawable/onboarding_indicator_inactive.xml" value="0.1755" />
+        <entry key="..\:/Users/andr9/Downloads/UASAKB/DiaryNotesUASAKB/app/src/main/res/drawable/state_color.xml" value="0.1275" />
+        <entry key="..\:/Users/andr9/Downloads/UASAKB/DiaryNotesUASAKB/app/src/main/res/layout/activity_add_note.xml" value="0.5" />
+        <entry key="..\:/Users/andr9/Downloads/UASAKB/DiaryNotesUASAKB/app/src/main/res/layout/activity_details.xml" value="0.22" />
+        <entry key="..\:/Users/andr9/Downloads/UASAKB/DiaryNotesUASAKB/app/src/main/res/layout/activity_edit.xml" value="0.25" />
+        <entry key="..\:/Users/andr9/Downloads/UASAKB/DiaryNotesUASAKB/app/src/main/res/layout/activity_frgt_pass.xml" value="0.3625" />
+        <entry key="..\:/Users/andr9/Downloads/UASAKB/DiaryNotesUASAKB/app/src/main/res/layout/activity_home.xml" value="0.1" />
+        <entry key="..\:/Users/andr9/Downloads/UASAKB/DiaryNotesUASAKB/app/src/main/res/layout/activity_home_fragment.xml" value="0.13344887348353554" />
+        <entry key="..\:/Users/andr9/Downloads/UASAKB/DiaryNotesUASAKB/app/src/main/res/layout/activity_info_fragment.xml" value="0.17603850050658562" />
+        <entry key="..\:/Users/andr9/Downloads/UASAKB/DiaryNotesUASAKB/app/src/main/res/layout/activity_info_fragment2.xml" value="0.3625" />
+        <entry key="..\:/Users/andr9/Downloads/UASAKB/DiaryNotesUASAKB/app/src/main/res/layout/activity_login.xml" value="0.33" />
+        <entry key="..\:/Users/andr9/Downloads/UASAKB/DiaryNotesUASAKB/app/src/main/res/layout/activity_main.xml" value="0.11005434782608696" />
+        <entry key="..\:/Users/andr9/Downloads/UASAKB/DiaryNotesUASAKB/app/src/main/res/layout/activity_note_adapter.xml" value="0.3625" />
+        <entry key="..\:/Users/andr9/Downloads/UASAKB/DiaryNotesUASAKB/app/src/main/res/layout/activity_on_boarding.xml" value="0.3625" />
+        <entry key="..\:/Users/andr9/Downloads/UASAKB/DiaryNotesUASAKB/app/src/main/res/layout/activity_on_boarding_adapter.xml" value="0.18697916666666667" />
+        <entry key="..\:/Users/andr9/Downloads/UASAKB/DiaryNotesUASAKB/app/src/main/res/layout/activity_on_boarding_item.xml" value="0.18697916666666667" />
+        <entry key="..\:/Users/andr9/Downloads/UASAKB/DiaryNotesUASAKB/app/src/main/res/layout/activity_profile_fragment.xml" value="0.33" />
+        <entry key="..\:/Users/andr9/Downloads/UASAKB/DiaryNotesUASAKB/app/src/main/res/layout/activity_register.xml" value="0.3625" />
+        <entry key="..\:/Users/andr9/Downloads/UASAKB/DiaryNotesUASAKB/app/src/main/res/layout/activity_splash_screen.xml" value="0.3625" />
+        <entry key="..\:/Users/andr9/Downloads/UASAKB/DiaryNotesUASAKB/app/src/main/res/layout/content_info_fragment.xml" value="0.3625" />
+        <entry key="..\:/Users/andr9/Downloads/UASAKB/DiaryNotesUASAKB/app/src/main/res/layout/cust_input.xml" value="0.1859375" />
+        <entry key="..\:/Users/andr9/Downloads/UASAKB/DiaryNotesUASAKB/app/src/main/res/layout/cust_list_view.xml" value="0.3625" />
+        <entry key="..\:/Users/andr9/Downloads/UASAKB/DiaryNotesUASAKB/app/src/main/res/layout/detailscontent.xml" value="0.22" />
+        <entry key="..\:/Users/andr9/Downloads/UASAKB/DiaryNotesUASAKB/app/src/main/res/layout/detailsitem.xml" value="0.3484375" />
+        <entry key="..\:/Users/andr9/Downloads/UASAKB/DiaryNotesUASAKB/app/src/main/res/layout/fragment_first.xml" value="0.17603850050658562" />
+        <entry key="..\:/Users/andr9/Downloads/UASAKB/DiaryNotesUASAKB/app/src/main/res/layout/fragment_second.xml" value="0.17603850050658562" />
+        <entry key="..\:/Users/andr9/Downloads/UASAKB/DiaryNotesUASAKB/app/src/main/res/layout/item_container_onboarding.xml" value="0.3625" />
+        <entry key="..\:/Users/andr9/Downloads/UASAKB/DiaryNotesUASAKB/app/src/main/res/menu/bottom_nav.xml" value="0.18541666666666667" />
+        <entry key="..\:/Users/andr9/Downloads/UASAKB/DiaryNotesUASAKB/app/src/main/res/menu/edit.xml" value="0.1" />
+        <entry key="..\:/Users/andr9/Downloads/UASAKB/DiaryNotesUASAKB/app/src/main/res/menu/logout.xml" value="0.3625" />
+        <entry key="..\:/Users/andr9/Downloads/UASAKB/DiaryNotesUASAKB/app/src/main/res/menu/save.xml" value="0.25" />
+        <entry key="..\:/Users/andr9/OneDrive/Documents/DiaryNotesUASAKB/app/src/main/res/drawable/ic_launcher_background.xml" value="0.1" />
+        <entry key="..\:/Users/andr9/OneDrive/Documents/DiaryNotesUASAKB/app/src/main/res/drawable/onboarding_indicator_active.xml" value="0.19" />
+        <entry key="..\:/Users/andr9/OneDrive/Documents/DiaryNotesUASAKB/app/src/main/res/drawable/onborading_indicator_inactive.xml" value="0.19" />
+        <entry key="..\:/Users/andr9/OneDrive/Documents/DiaryNotesUASAKB/app/src/main/res/layout/activity_on_boarding.xml" value="0.3625" />
+        <entry key="..\:/Users/andr9/OneDrive/Documents/DiaryNotesUASAKB/app/src/main/res/layout/activity_on_boarding_adapter.xml" value="0.3625" />
+        <entry key="..\:/Users/andr9/OneDrive/Documents/DiaryNotesUASAKB/app/src/main/res/layout/activity_splash_screen.xml" value="0.3572916666666667" />
+        <entry key="..\:/Users/andr9/OneDrive/Documents/DiaryNotesUASAKB/app/src/main/res/layout/item_container_onboarding.xml" value="0.17603850050658562" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
